@@ -1,0 +1,36 @@
+_repo: Vanha-kauppiaskoti_55085
+_version: 0.0.1
+alternative_title: Soll und Haben. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A.
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+creator:
+  author:
+    agent_name: Freytag, Gustav
+    alias: Freitag, Gustav
+    birthdate: 1816
+    deathdate: 1895
+    gutenberg_agent_id: '8864'
+    url: http://www.gutenberg.org/2009/agents/8864
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Freytag
+description: ''
+gutenberg_issued: '2017-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55085'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Social classes -- Germany -- Fiction'
+- !lcsh 'Mercantile system -- Germany -- Fiction'
+- GITenberg
+title: Vanha kauppiaskoti
+url: http://www.gutenberg.org/ebooks/55085
